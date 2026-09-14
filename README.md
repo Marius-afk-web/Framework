@@ -86,4 +86,4 @@ Cet outil est destiné aux professionnels de la sécurité et aux étudiants. N'
 ## 📜 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
-<p align="center"> <i>Développé avec Python pour la communauté cybersecurité</i> </p> ```
+<p align="center"> <i>Développé avec Python pour la communauté cybersecurité</i> </p> 
