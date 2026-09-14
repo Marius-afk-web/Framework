@@ -21,8 +21,18 @@ Framework d'automatisation de tests d'intrusion développé en Python. Outil com
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Marius-afk-web/Framework-PentestFramework.git
+git clone https://github.com/Marius-afk-web/Framework/PentestFramework.git
 cd pentest-framework
 
 # Lancer l'outil (nécessite sudo pour certains scans)
 sudo python3 pentest.py
+
+📋 Prérequis
+Python 3.8+
+Nmap
+Gobuster / FFUF
+Nikto
+Hydra
+WhatWeb
+🖥️ Utilisation
+Lancez l'outil et suivez le menu interactif :
