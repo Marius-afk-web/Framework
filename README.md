@@ -83,7 +83,7 @@ Usage éducatif et autorisé uniquement.
 
 Cet outil est destiné aux professionnels de la sécurité et aux étudiants. N'utilisez cet outil que sur des systèmes pour lesquels vous disposez d'une autorisation explicite. L'auteur décline toute responsabilité quant à une utilisation illégale ou non éthique.
 
-📜 Licence
+## 📜 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
-<p align="center"> <i>Développé avec Python pour la communauté cybersecurity</i> </p> ```
+<p align="center"> <i>Développé avec Python pour la communauté cybersecurité</i> </p> ```
